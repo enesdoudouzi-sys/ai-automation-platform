@@ -30,7 +30,7 @@ The initial implementation will be developed in small, reviewable increments. Th
 
 ## Getting started
 
-The backend setup instructions will be added with the first FastAPI implementation. Until then, there is no runnable application.
+See [backend/README.md](backend/README.md) for local setup, API startup, and test commands. Copy `.env.example` to `.env` before running Docker Compose.
 
 ## Development principles
 
